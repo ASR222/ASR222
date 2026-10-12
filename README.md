@@ -1,4 +1,4 @@
-﻿<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Abhay%20Singh&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=I%20build%20AI%20systems%20that%20ship%20to%20the%20cloud&descAlignY=60&descSize=16" width="100%" alt="Abhay Singh" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Abhay%20Singh&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=I%20build%20AI%20systems%20that%20ship%20to%20the%20cloud&descAlignY=60&descSize=16" width="100%" alt="Abhay Singh" />
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=2C9CDB&center=true&vCenter=true&width=620&lines=Multi-agent+AI+platforms+in+Go+%2B+Python;Serverless+ML+on+AWS+%26+Google+Cloud;Data+warehouses+%26+analytics+that+answer+real+questions" alt="Typing intro" /></a>

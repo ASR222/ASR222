@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/abhaysingh3101"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://drive.google.com/file/d/1RYo5p25qtQkzLTkG0PWpPSXYuQ2l4APo/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="https://codeforces.com/profile/singhshreyanh312"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://github.com/ASR222/neetcode-submissions"><img src="https://img.shields.io/badge/NeetCode_solutions-1f2937?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="NeetCode solutions" /></a>
+  <a href="https://github.com/ASR222/neetcode-submissions"><img src="https://img.shields.io/badge/NeetCode_submissions-1f2937?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="NeetCode submissions" /></a>
 </p>
 
 ---

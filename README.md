@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Abhay%20Singh&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=I%20build%20AI%20systems%20that%20ship%20to%20the%20cloud&descAlignY=60&descSize=16" width="100%" alt="Abhay Singh" />
+﻿<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Abhay%20Singh&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=I%20build%20AI%20systems%20that%20ship%20to%20the%20cloud&descAlignY=60&descSize=16" width="100%" alt="Abhay Singh" />
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=2C9CDB&center=true&vCenter=true&width=620&lines=Multi-agent+AI+platforms+in+Go+%2B+Python;Serverless+ML+on+AWS+%26+Google+Cloud;Data+warehouses+%26+analytics+that+answer+real+questions" alt="Typing intro" /></a>
 </p>
 
 <p align="center">
-  <!-- TODO: replace with your LinkedIn URL -->
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://main.dxwuap9t49si3.amplifyapp.com"><img src="https://img.shields.io/badge/Live_demo-HazeBusters-2ea44f?style=for-the-badge&logo=amazonaws&logoColor=white" alt="HazeBusters live demo" /></a>
-  <a href="https://neetcode.io"><img src="https://img.shields.io/badge/Practising-NeetCode-1f2937?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="NeetCode" /></a>
+  <a href="https://www.linkedin.com/in/abhaysingh3101"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://drive.google.com/file/d/1RYo5p25qtQkzLTkG0PWpPSXYuQ2l4APo/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+  <a href="https://codeforces.com/profile/singhshreyanh312"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://github.com/ASR222/neetcode-submissions"><img src="https://img.shields.io/badge/NeetCode_solutions-1f2937?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="NeetCode solutions" /></a>
 </p>
 
 ---
@@ -20,7 +20,7 @@ I'm a builder who likes taking an idea all the way from a notebook to a deployed
 - 🤖 **AI engineering:** multi-agent routing with LangGraph, RAG over your own documents, and LLMs used where they help (wording) rather than where they shouldn't (scoring)
 - ☁️ **Cloud:** Google Cloud Run + Terraform, AWS Lambda + SAM, keyless CI/CD with GitHub Actions
 - 📊 **Data:** medallion-architecture warehouses in SQL Server, KPI dashboards, Lean / Six Sigma analytics
-- 🌱 **Right now:** sharpening DSA on NeetCode and hardening my projects for production
+- 🌱 **Right now:** sharpening DSA on [NeetCode](https://github.com/ASR222/neetcode-submissions) and [Codeforces](https://codeforces.com/profile/singhshreyanh312), and hardening my projects for production
 
 ---
 
@@ -30,7 +30,7 @@ I'm a builder who likes taking an idea all the way from a notebook to a deployed
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠 [CortexAI](https://github.com/ASR222/cortex-ai)
+#### 🧠 [CortexAI](https://github.com/ASR222/cortex-ai) · [live](https://cortex-gateway-720170616128.asia-south1.run.app/)
 A multi-agent AI assistant. One chat box routes each message to the right specialist: chat, cited web search, coding with live preview, PDF Q&A (RAG), vision, and PDF / slide / image generation.
 
 **Go microservices** (gateway, auth, chat, billing) + **Python FastAPI / LangGraph** agent service, SSE streaming, Razorpay billing, Google sign-in.
@@ -111,7 +111,7 @@ A REST API for resume parsing and multi-dimensional ATS scoring: OTP email verif
 
 <p align="center">
   <b>Open to software / AI engineering roles and to building something together.</b><br/>
-  Reach out on LinkedIn or open an issue on any of my repos 🤝
+  Reach out on <a href="https://www.linkedin.com/in/abhaysingh3101">LinkedIn</a> or open an issue on any of my repos 🤝
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="" />

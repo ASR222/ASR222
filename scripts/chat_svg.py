@@ -11,8 +11,8 @@ TURNS = [
      "An AI and cloud engineer in India. He builds multi-agent systems in Go and Python, "
      "and runs them on Google Cloud and AWS."),
     ("What has he shipped?",
-     "Me, for a start: I'm CortexAI, his multi-agent assistant. Also HazeBusters, air quality "
-     "for places with no monitor, and a SQL Server warehouse for SaaS metrics."),
+     "Me, for a start: I'm CortexAI. Also HazeBusters, air quality for places with no monitor, "
+     "and MemLedger, shared memory for agent teams."),
     ("Is he open to work?",
      "Yes, to software and AI engineering roles. LinkedIn is the quickest way to reach him."),
 ]
@@ -22,7 +22,7 @@ THEMES = {
     "light": dict(bg="#ffffff", bar="#f4f4f5", text="#18181b", muted="#71717a", user="#ececef", accent="#0b8fc4"),
 }
 
-W, H = 760, 430
+W, H = 600, 352
 
 
 def svg(t):
@@ -40,18 +40,18 @@ def svg(t):
     body = "".join(rows)
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="A CortexAI chat: who is Abhay, what has he shipped, is he open to work">
 <style>
-.w{{width:{W}px;height:{H}px;background:{t['bg']};color:{t['text']};font:15px/1.5 -apple-system,'Segoe UI',Inter,Ubuntu,Helvetica,Arial,sans-serif;border-radius:12px;overflow:hidden;box-sizing:border-box}}
-.top{{display:flex;justify-content:space-between;align-items:center;padding:12px 22px;background:{t['bar']};font-size:14px}}
-.top b{{font-weight:650}}.top span{{color:{t['muted']};font-size:13px}}
-.c{{padding:16px 22px;display:flex;flex-direction:column;gap:10px}}
+.w{{width:{W}px;height:{H}px;background:{t['bg']};color:{t['text']};font:13px/1.45 -apple-system,'Segoe UI',Inter,Ubuntu,Helvetica,Arial,sans-serif;border-radius:12px;overflow:hidden;box-sizing:border-box}}
+.top{{display:flex;justify-content:space-between;align-items:center;padding:9px 16px;background:{t['bar']};font-size:13px}}
+.top b{{font-weight:650}}.top span{{color:{t['muted']};font-size:12px}}
+.c{{padding:12px 16px;display:flex;flex-direction:column;gap:8px}}
 .u{{display:flex;justify-content:flex-end}}
-.u span{{background:{t['user']};padding:7px 14px;border-radius:16px}}
+.u span{{background:{t['user']};padding:5px 12px;border-radius:14px}}
 .slot{{display:grid}}.slot>*{{grid-area:1/1}}
-.b{{max-width:620px}}.r{{color:{t['accent']};font-size:13px;margin-bottom:2px}}
+.b{{max-width:500px}}.r{{color:{t['accent']};font-size:11.5px;margin-bottom:1px}}
 .in{{opacity:0;animation:in .45s ease-out forwards}}
 @keyframes in{{from{{opacity:0;transform:translateY(6px)}}to{{opacity:1;transform:none}}}}
 .dots{{opacity:0;align-self:start;padding:8px 0;animation:blink 1.1s linear forwards}}
-.dots i{{display:inline-block;width:7px;height:7px;margin-right:5px;border-radius:50%;background:{t['muted']};animation:bob .9s ease-in-out infinite}}
+.dots i{{display:inline-block;width:6px;height:6px;margin-right:4px;border-radius:50%;background:{t['muted']};animation:bob .9s ease-in-out infinite}}
 .dots i:nth-child(2){{animation-delay:.15s}}.dots i:nth-child(3){{animation-delay:.3s}}
 @keyframes blink{{0%{{opacity:0}}10%,90%{{opacity:1}}100%{{opacity:0}}}}
 @keyframes bob{{0%,100%{{transform:none}}50%{{transform:translateY(-3px)}}}}

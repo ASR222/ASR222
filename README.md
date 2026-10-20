@@ -52,7 +52,7 @@ Built at **WeMakeDevs × FalkorDB GraphHacks 2026** (Agent Memory track). Includ
 <tr>
 <td width="50%" valign="top">
 
-#### 🌫️ [HazeBusters](https://github.com/ASR222/hazebusters) · [live](https://main.dxwuap9t49si3.amplifyapp.com)
+#### 🌫️ [HazeBusters](https://github.com/ASR222/hazebusters) · [live](https://main.dxwuap9t49si3.amplifyapp.com) · [video](https://youtu.be/rxz5jJ9uge0)
 Air quality for places with no monitor nearby: a CPCB-style AQI with its source and a confidence level, a go / limit / no outdoor decision for schools and workers, and advice in English and Hindi with audio.
 
 Built at **WeMakeDevs × AWS Environmental Hacks 2026**. Serverless on AWS with ONNX smoke/fire + YOLO11n models.

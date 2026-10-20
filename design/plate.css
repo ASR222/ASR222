@@ -1,7 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;700;800&display=block');
-*{margin:0;padding:0;box-sizing:border-box}
-html,body{width:880px;overflow:hidden;font-family:'Schibsted Grotesk',sans-serif;-webkit-font-smoothing:antialiased}
-.plate{position:relative;width:880px;overflow:hidden;color:#fff}
-.big{font-weight:800;letter-spacing:-.045em;line-height:.92}
-.say{font-size:19px;line-height:1.45;font-weight:400}
-.note{font-size:15px;line-height:1.4;font-weight:500;opacity:.78}

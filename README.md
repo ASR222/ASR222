@@ -1,138 +1,66 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Abhay%20Singh&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=I%20build%20AI%20systems%20that%20ship%20to%20the%20cloud&descAlignY=60&descSize=16" width="100%" alt="Abhay Singh" />
+<img src="assets/hero.png" width="100%" alt="Abhay Singh. I ship AI to production. AI and cloud engineer: I build multi-agent systems in Go and Python and run them on Google Cloud and AWS." />
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=2C9CDB&center=true&vCenter=true&width=620&lines=Multi-agent+AI+platforms+in+Go+%2B+Python;Serverless+ML+on+AWS+%26+Google+Cloud;Data+warehouses+%26+analytics+that+answer+real+questions" alt="Typing intro" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/abhaysingh3101"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://drive.google.com/file/d/1RYo5p25qtQkzLTkG0PWpPSXYuQ2l4APo/view?usp=sharing"><b>Resume</b></a> &nbsp;·&nbsp;
+  <a href="https://codeforces.com/profile/singhshreyanh312"><b>Codeforces</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/ASR222/neetcode-submissions"><b>NeetCode submissions</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/ASR222/bootdev-progress"><b>Boot.dev progress</b></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhaysingh3101"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://drive.google.com/file/d/1RYo5p25qtQkzLTkG0PWpPSXYuQ2l4APo/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
-  <a href="https://codeforces.com/profile/singhshreyanh312"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://github.com/ASR222/bootdev-progress"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.boot.dev%2Fv1%2Fusers%2Fpublic%2Funlawfulform24&query=%24.data.level&label=Boot.dev%20level&color=7c3aed&style=for-the-badge" alt="Boot.dev level" /></a>
-  <a href="https://github.com/ASR222/neetcode-submissions"><img src="https://img.shields.io/badge/NeetCode_submissions-1f2937?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="NeetCode submissions" /></a>
-</p>
+## Things I've shipped
 
----
+<a href="https://cortex-gateway-720170616128.asia-south1.run.app/"><img src="assets/cortex.png" width="100%" alt="CortexAI: a chat asking for a chai stall landing page, routed to the coding agent, with the generated HTML open in the code panel" /></a>
 
-### 👋 About me
+### CortexAI
 
-I'm a builder who likes taking an idea all the way from a notebook to a deployed, tested, infrastructure-as-code system.
+One chat box, eight specialist agents. Each message is routed to the one that fits: chat, cited web search, coding with a live preview, questions about your PDFs and images, or a new PDF report, slide deck or image. Go services handle the gateway, auth, chat and billing; a Python LangGraph service runs the agents and streams answers back.
 
-- 🤖 **AI engineering:** multi-agent routing with LangGraph, RAG over your own documents, and LLMs used where they help (wording) rather than where they shouldn't (scoring)
-- ☁️ **Cloud:** Google Cloud Run + Terraform, AWS Lambda + SAM, keyless CI/CD with GitHub Actions
-- 📊 **Data:** medallion-architecture warehouses in SQL Server, KPI dashboards, Lean / Six Sigma analytics
-- 🌱 **Right now:** sharpening DSA on [NeetCode](https://github.com/ASR222/neetcode-submissions) and [Codeforces](https://codeforces.com/profile/singhshreyanh312), learning backend development on [Boot.dev](https://github.com/ASR222/bootdev-progress), and hardening my projects for production
+Go · Python · LangGraph · React · MongoDB · Redis · Qdrant · Cloud Run · Terraform
 
----
+[Try it live](https://cortex-gateway-720170616128.asia-south1.run.app/) &nbsp;·&nbsp; [Read the code](https://github.com/ASR222/cortex-ai)
 
-### 🚀 Featured projects
+<br />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://main.dxwuap9t49si3.amplifyapp.com"><img src="assets/hazebusters.png" width="100%" alt="HazeBusters on a phone: choose who it is for and a city, then check the air. Air today, for places with no monitor." /></a>
 
-#### 🧠 [CortexAI](https://github.com/ASR222/cortex-ai) · [live](https://cortex-gateway-720170616128.asia-south1.run.app/)
-A multi-agent AI assistant. One chat box routes each message to the right specialist: chat, cited web search, coding with live preview, PDF Q&A (RAG), vision, and PDF / slide / image generation.
+### HazeBusters
 
-**Go microservices** (gateway, auth, chat, billing) + **Python FastAPI / LangGraph** agent service, SSE streaming, Razorpay billing, Google sign-in.
+Most places have no air-quality monitor nearby. HazeBusters says how far away the nearest reading really is, blends it with the CAMS forecast into a CPCB-style AQI with a confidence level, and tells a school or an outdoor worker whether to go out today. Advice comes in English and Hindi, read aloud by Amazon Polly. Built with a team at the WeMakeDevs × AWS Environmental Hacks 2026.
 
-`Go` `Python` `LangGraph` `React` `MongoDB` `Redis` `Qdrant` `Cloud Run` `Terraform`
+Python · AWS Lambda · Bedrock · Polly · DynamoDB · S3 · SAM · ONNX · PWA
 
-</td>
-<td width="50%" valign="top">
+[Try it live](https://main.dxwuap9t49si3.amplifyapp.com) &nbsp;·&nbsp; [Read the code](https://github.com/ASR222/hazebusters)
 
-#### 🕸️ [MemLedger](https://github.com/rudrakshSoni-dev/memledger-graphhacks) · [live](https://memledger-720170616128.asia-south1.run.app/demo) · [video](https://www.youtube.com/watch?v=xmPvyoq3y0s)
-Shared memory for multi-agent teams where every fact records who wrote it, its source, what it was concluded from and when it was true. Revoke a compromised source and everything built on it is withdrawn in one graph query, with provenance and time travel.
+<br />
 
-Built at **WeMakeDevs × FalkorDB GraphHacks 2026** (Agent Memory track). Includes an MCP server for Claude Desktop.
+<a href="https://github.com/ASR222/B2B-SaaS-Data-Warehouse-Analytics-SQL-Server"><img src="assets/warehouse.png" width="100%" alt="The NovaCRM warehouse layers: ERP and CRM sources, then bronze raw landing, silver cleaned, gold star schema" /></a>
 
-`Python` `FalkorDB` `Cypher` `FastAPI` `Gemini` `MCP` `Docker`
+### NovaCRM data warehouse
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+A SaaS company keeps billing in its ERP and customers in its CRM, and the two never agree. This SQL Server warehouse lands both as they arrive, cleans them, and builds a star schema that answers MRR, churn and customer-health questions. It ships with a data catalog and tests.
 
-#### 🌫️ [HazeBusters](https://github.com/ASR222/hazebusters) · [live](https://main.dxwuap9t49si3.amplifyapp.com) · [video](https://youtu.be/rxz5jJ9uge0)
-Air quality for places with no monitor nearby: a CPCB-style AQI with its source and a confidence level, a go / limit / no outdoor decision for schools and workers, and advice in English and Hindi with audio.
+T-SQL · SQL Server · Data modeling · ETL
 
-Built at **WeMakeDevs × AWS Environmental Hacks 2026**. Serverless on AWS with ONNX smoke/fire + YOLO11n models.
+[Read the code](https://github.com/ASR222/B2B-SaaS-Data-Warehouse-Analytics-SQL-Server)
 
-`Python` `AWS Lambda` `Bedrock` `Polly` `DynamoDB` `S3` `SAM` `ONNX` `PWA`
+## Smaller builds
 
-</td>
-<td width="50%" valign="top">
+**[Warehouse KPI dashboard](https://github.com/ASR222/Warehouse-KPI-Process-Optimization-Dashboard)**. A four-page Streamlit dashboard for fulfilment operations: KPIs flagged at ±2σ, a Sankey of the warehouse flow, a Lean what-if simulator and root-cause analysis with hypothesis tests. Python, Pandas, SQL, Plotly.
 
-#### 🏢 [NovaCRM SaaS Data Warehouse](https://github.com/ASR222/B2B-SaaS-Data-Warehouse-Analytics-SQL-Server)
-A SQL Server warehouse with a bronze → silver → gold medallion architecture that unifies siloed ERP and CRM data into a star schema for MRR, churn and customer-health reporting. Includes a data catalog and tests.
+**[Resume Analyzer](https://github.com/ASR222/Resume-Analyzer)**. A REST API that parses PDF resumes and scores them for an ATS across eight dimensions, with OTP sign-up, JWT auth and a local Phi-3 model on Ollama. Node.js, Express, Prisma, PostgreSQL.
 
-`T-SQL` `SQL Server` `Data modeling` `ETL`
+## Practice
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+I'm learning backend development on Boot.dev, solving NeetCode problems and competing on Codeforces. My Boot.dev stats below refresh every night.
 
-#### 📦 [Warehouse KPI & Process Optimization](https://github.com/ASR222/Warehouse-KPI-Process-Optimization-Dashboard)
-An end-to-end analytics pipeline and four-page Streamlit dashboard: KPI tracking with ±2σ deviation flags, Sankey process flow, Lean / Six Sigma what-if simulation, and root-cause analysis with hypothesis testing.
+<a href="https://github.com/ASR222/bootdev-progress"><img src="https://raw.githubusercontent.com/ASR222/bootdev-progress/main/card.svg" alt="Boot.dev progress: level, XP, lessons completed and achievements" /></a>
 
-`Python` `Pandas` `SQL` `Streamlit` `Plotly`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ASR222/ASR222/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ASR222/ASR222/output/github-snake.svg" width="100%" alt="A snake eating my GitHub contributions, which grow back" />
+</picture>
 
-</td>
-<td width="50%" valign="top">
+## Work with me
 
-#### 📄 [Resume Analyzer](https://github.com/ASR222/Resume-Analyzer)
-A REST API for resume parsing and multi-dimensional ATS scoring: OTP email verification, JWT auth, Cloudinary storage, and LLM analysis run locally with Phi-3 on Ollama.
-
-`Node.js` `Express` `Prisma` `PostgreSQL` `Docker`
-
-</td>
-</tr>
-</table>
-
----
-
-### 📚 Learning on Boot.dev
-
-<p align="center">
-  <a href="https://github.com/ASR222/bootdev-progress"><img src="https://raw.githubusercontent.com/ASR222/bootdev-progress/main/card.svg" alt="Boot.dev progress" /></a>
-</p>
-
----
-
-### 🛠️ Tech I work with
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,ts,js,react,nodejs,express,fastapi&perline=8" alt="Languages and frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,postgres,prisma,docker,gcp,aws,terraform&perline=8" alt="Data and cloud" /><br/>
-  <img src="https://skillicons.dev/icons?i=githubactions,git,linux,html,css&perline=8" alt="Tooling" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
-  <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Bedrock" />
-</p>
-
----
-
-### 📈 GitHub activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ASR222/ASR222/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/ASR222/ASR222/output/github-snake.svg" width="100%" alt="Contribution snake" />
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <b>Open to software / AI engineering roles and to building something together.</b><br/>
-  Reach out on <a href="https://www.linkedin.com/in/abhaysingh3101">LinkedIn</a> or open an issue on any of my repos 🤝
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="" />
+I'm looking for software and AI engineering roles, and I like building with other people. The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/abhaysingh3101).

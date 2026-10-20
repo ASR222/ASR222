@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/abhaysingh3101"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://drive.google.com/file/d/1RYo5p25qtQkzLTkG0PWpPSXYuQ2l4APo/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="https://codeforces.com/profile/singhshreyanh312"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://github.com/ASR222/bootdev-progress"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.boot.dev%2Fv1%2Fusers%2Fpublic%2Funlawfulform24&query=%24.data.level&label=Boot.dev%20level&color=7c3aed&style=for-the-badge" alt="Boot.dev level" /></a>
   <a href="https://github.com/ASR222/neetcode-submissions"><img src="https://img.shields.io/badge/NeetCode_submissions-1f2937?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="NeetCode submissions" /></a>
 </p>
 
@@ -20,7 +21,7 @@ I'm a builder who likes taking an idea all the way from a notebook to a deployed
 - 🤖 **AI engineering:** multi-agent routing with LangGraph, RAG over your own documents, and LLMs used where they help (wording) rather than where they shouldn't (scoring)
 - ☁️ **Cloud:** Google Cloud Run + Terraform, AWS Lambda + SAM, keyless CI/CD with GitHub Actions
 - 📊 **Data:** medallion-architecture warehouses in SQL Server, KPI dashboards, Lean / Six Sigma analytics
-- 🌱 **Right now:** sharpening DSA on [NeetCode](https://github.com/ASR222/neetcode-submissions) and [Codeforces](https://codeforces.com/profile/singhshreyanh312), and hardening my projects for production
+- 🌱 **Right now:** sharpening DSA on [NeetCode](https://github.com/ASR222/neetcode-submissions) and [Codeforces](https://codeforces.com/profile/singhshreyanh312), learning backend development on [Boot.dev](https://github.com/ASR222/bootdev-progress), and hardening my projects for production
 
 ---
 
@@ -88,6 +89,14 @@ A REST API for resume parsing and multi-dimensional ATS scoring: OTP email verif
 </td>
 </tr>
 </table>
+
+---
+
+### 📚 Learning on Boot.dev
+
+<p align="center">
+  <a href="https://github.com/ASR222/bootdev-progress"><img src="https://raw.githubusercontent.com/ASR222/bootdev-progress/main/card.svg" alt="Boot.dev progress" /></a>
+</p>
 
 ---
 

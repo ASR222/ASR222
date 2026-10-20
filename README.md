@@ -9,7 +9,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/abhaysingh3101) · [Resume](https://drive.google.com/file/d/1RYo5p25qtQkzLTkG0PWpPSXYuQ2l4APo/view?usp=sharing) · [Codeforces](https://codeforces.com/profile/singhshreyanh312) · [NeetCode submissions](https://github.com/ASR222/neetcode-submissions) · [Boot.dev progress](https://github.com/ASR222/bootdev-progress)
 
-**Live:** [CortexAI](https://cortex-gateway-720170616128.asia-south1.run.app/) · [HazeBusters](https://main.dxwuap9t49si3.amplifyapp.com) · [MemLedger (demo video)](https://www.youtube.com/watch?v=xmPvyoq3y0s)
+**Live:** [CortexAI](https://cortex-gateway-720170616128.asia-south1.run.app/) · [HazeBusters](https://main.dxwuap9t49si3.amplifyapp.com) · [MemLedger](https://memledger-720170616128.asia-south1.run.app/demo)
 
 ### 🚀 Featured projects
 
@@ -43,9 +43,9 @@ Built at **WeMakeDevs × AWS Environmental Hacks 2026**. Serverless on AWS with 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://www.youtube.com/watch?v=xmPvyoq3y0s"><img src="assets/projects/memledger.jpg" width="100%" alt="MemLedger answering why the team believes a root cause: who wrote it, its source and the versions it replaced, over the memory graph" /></a>
+<a href="https://memledger-720170616128.asia-south1.run.app/demo"><img src="assets/projects/memledger.jpg" width="100%" alt="MemLedger answering why the team believes a root cause: who wrote it, its source and the versions it replaced, over the memory graph" /></a>
 
-#### 🧾 [MemLedger](https://github.com/rudrakshSoni-dev/memledger-graphhacks) · [demo](https://www.youtube.com/watch?v=xmPvyoq3y0s)
+#### 🧾 [MemLedger](https://github.com/rudrakshSoni-dev/memledger-graphhacks) · [live](https://memledger-720170616128.asia-south1.run.app/demo) · [demo video](https://www.youtube.com/watch?v=xmPvyoq3y0s)
 Shared memory for AI agent teams. Every belief records who wrote it, its source, what it was concluded from and what it replaced, so one graph query can retract a compromised source everywhere.
 
 Built for **GraphHacks 2026 (WeMakeDevs × FalkorDB)**. Agents for triage, investigation and comms, time travel, quarantine, and an MCP server.

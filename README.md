@@ -40,7 +40,7 @@ A multi-agent AI assistant. One chat box routes each message to the right specia
 </td>
 <td width="50%" valign="top">
 
-#### 🕸️ [MemLedger](https://github.com/rudrakshSoni-dev/memledger-graphhacks) · [demo](https://www.youtube.com/watch?v=xmPvyoq3y0s)
+#### 🕸️ [MemLedger](https://github.com/rudrakshSoni-dev/memledger-graphhacks) · [live](https://memledger-720170616128.asia-south1.run.app/demo) · [video](https://www.youtube.com/watch?v=xmPvyoq3y0s)
 Shared memory for multi-agent teams where every fact records who wrote it, its source, what it was concluded from and when it was true. Revoke a compromised source and everything built on it is withdrawn in one graph query, with provenance and time travel.
 
 Built at **WeMakeDevs × FalkorDB GraphHacks 2026** (Agent Memory track). Includes an MCP server for Claude Desktop.

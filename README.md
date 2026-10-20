@@ -40,6 +40,18 @@ A multi-agent AI assistant. One chat box routes each message to the right specia
 </td>
 <td width="50%" valign="top">
 
+#### 🕸️ [MemLedger](https://github.com/rudrakshSoni-dev/memledger-graphhacks) · [demo](https://www.youtube.com/watch?v=xmPvyoq3y0s)
+Shared memory for multi-agent teams where every fact records who wrote it, its source, what it was concluded from and when it was true. Revoke a compromised source and everything built on it is withdrawn in one graph query, with provenance and time travel.
+
+Built at **WeMakeDevs × FalkorDB GraphHacks 2026** (Agent Memory track). Includes an MCP server for Claude Desktop.
+
+`Python` `FalkorDB` `Cypher` `FastAPI` `Gemini` `MCP` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### 🌫️ [HazeBusters](https://github.com/ASR222/hazebusters) · [live](https://main.dxwuap9t49si3.amplifyapp.com)
 Air quality for places with no monitor nearby: a CPCB-style AQI with its source and a confidence level, a go / limit / no outdoor decision for schools and workers, and advice in English and Hindi with audio.
 
@@ -48,8 +60,6 @@ Built at **WeMakeDevs × AWS Environmental Hacks 2026**. Serverless on AWS with 
 `Python` `AWS Lambda` `Bedrock` `Polly` `DynamoDB` `S3` `SAM` `ONNX` `PWA`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🏢 [NovaCRM SaaS Data Warehouse](https://github.com/ASR222/B2B-SaaS-Data-Warehouse-Analytics-SQL-Server)
@@ -58,6 +68,8 @@ A SQL Server warehouse with a bronze → silver → gold medallion architecture 
 `T-SQL` `SQL Server` `Data modeling` `ETL`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 📦 [Warehouse KPI & Process Optimization](https://github.com/ASR222/Warehouse-KPI-Process-Optimization-Dashboard)
@@ -66,12 +78,12 @@ An end-to-end analytics pipeline and four-page Streamlit dashboard: KPI tracking
 `Python` `Pandas` `SQL` `Streamlit` `Plotly`
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 #### 📄 [Resume Analyzer](https://github.com/ASR222/Resume-Analyzer)
-A REST API for resume parsing and multi-dimensional ATS scoring: OTP email verification, JWT auth, Cloudinary storage, and LLM analysis run locally with Phi-3 on Ollama. `Node.js` `Express` `Prisma` `PostgreSQL` `Docker`
+A REST API for resume parsing and multi-dimensional ATS scoring: OTP email verification, JWT auth, Cloudinary storage, and LLM analysis run locally with Phi-3 on Ollama.
+
+`Node.js` `Express` `Prisma` `PostgreSQL` `Docker`
 
 </td>
 </tr>

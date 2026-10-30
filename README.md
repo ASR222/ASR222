@@ -7,7 +7,7 @@
 
 <sub>That's <a href="https://github.com/ASR222/cortex-ai">CortexAI</a>, an assistant I built. You can <a href="https://cortex-gateway-720170616128.asia-south1.run.app/">ask it something yourself</a>.</sub>
 
-[LinkedIn](https://www.linkedin.com/in/abhaysingh3101) · [Resume](https://drive.google.com/file/d/18Z3VSMv9-9sUBJju6Jpe6HHx6ZK4mxqj/view?usp=sharing) · [Codeforces](https://codeforces.com/profile/singhshreyanh312) · [NeetCode submissions](https://github.com/ASR222/neetcode-submissions) · [Boot.dev progress](https://github.com/ASR222/bootdev-progress)
+**[Portfolio](https://asr222.github.io)** · [LinkedIn](https://www.linkedin.com/in/abhaysingh3101) · [Resume](https://drive.google.com/file/d/18Z3VSMv9-9sUBJju6Jpe6HHx6ZK4mxqj/view?usp=sharing) · [Codeforces](https://codeforces.com/profile/singhshreyanh312) · [NeetCode submissions](https://github.com/ASR222/neetcode-submissions) · [Boot.dev progress](https://github.com/ASR222/bootdev-progress)
 
 **Live:** [CortexAI](https://cortex-gateway-720170616128.asia-south1.run.app/) · [HazeBusters](https://main.dxwuap9t49si3.amplifyapp.com) · [MemLedger](https://memledger-720170616128.asia-south1.run.app/demo)
 
